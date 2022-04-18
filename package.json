@@ -1,0 +1,22 @@
+{
+  "name": "jest-5",
+  "version": "1.0.0",
+  "description": "(main) $ npm init This utility will walk you through creating a package.json file. It only covers the most common items, and tries to guess sensible defaults.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flow-matic/jest-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flow-matic/jest-5/issues"
+  },
+  "homepage": "https://github.com/Flow-matic/jest-5#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
